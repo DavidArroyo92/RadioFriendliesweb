@@ -1,0 +1,64 @@
+.contenedor{
+  background-color:#2D2C22;
+  padding: 0%;
+  color:white;
+  text-align: center;
+  font-size: 10rem;
+}
+
+
+p {
+  margin: 2%;
+}
+
+h3{
+  margin:2%;
+}
+
+
+footer {
+	background-color:#343a40;
+	font-size: 10px;
+	text-align: center;}
+
+mark{
+  background-color: yellow;
+}
+
+.somos {
+height: auto;
+max-width: 100%;
+padding: 10px;
+display: block;
+margin: auto;
+}
+
+.titulos{
+  text-align: center;
+}
+
+.text{
+  padding:6%;
+  text-align: center;
+
+
+/* Barra de navegación */
+
+.navbar-brand{
+	font-size: 10px;
+	color: black;
+}
+
+#navbarNavDropdown{
+	font-size: 10px;
+
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.main {
+  flex: 1;
+}

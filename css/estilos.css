@@ -1,0 +1,61 @@
+footer {
+	background-color:#343a40;
+	font-size: 10px;
+	text-align: center;}
+
+
+
+/* Barra de navegación */
+
+.navbar-brand{
+	font-size: 10px;
+	color: black;
+}
+
+#navbarNavDropdown{
+	font-size: 10px;
+
+/* carrousel de imagenes */
+
+.carousel {
+  margin-bottom: 4rem;
+}
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+}
+
+.carousel-caption h1{
+	color:black;
+}
+
+.carousel-item {
+  height: 32rem;
+}
+.carousel-item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 32rem;
+}
+
+/* Pie de pagina */
+
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.main {
+  flex: 1;
+}
+
+.footer {
+  background-color: #343a40;
+  background-position: center center;
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: 300px;
+}
